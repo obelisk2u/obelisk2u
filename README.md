@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Jordan 👋
+
+I like to experiment with DL projects, looking for new roles
+
+### Currently working on
+- Transformer-based topic modeling over long-form text
+- ViT based implementation for physics learning surrogates
+- Live chat analytics and sentiment dynamics
+
+### Stack
+- **Languages:** Python, C++, SQL
+- **ML**: PyTorch, transformers, representation learning
+- **Data:** pandas, numpy, scikit-learn
+- 
 ![Profile Views](https://komarev.com/ghpvc/?username=obelisk2u)
-<!--
-**obelisk2u/obelisk2u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
