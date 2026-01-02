@@ -11,5 +11,5 @@ I like to experiment with DL projects, looking for new roles
 - **Languages:** Python, C++, SQL
 - **ML**: PyTorch, transformers, representation learning
 - **Data:** pandas, numpy, scikit-learn
-- 
+  
 ![Profile Views](https://komarev.com/ghpvc/?username=obelisk2u)
