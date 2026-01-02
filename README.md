@@ -1,6 +1,7 @@
 ## Hi there, I'm Jordan 👋
 
 I like to experiment with DL projects, looking for new roles
+Reach me at jordan@streamers-edge.com
 
 ### Currently working on
 - Transformer-based topic modeling over long-form text
