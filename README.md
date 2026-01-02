@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Profile Views](https://komarev.com/ghpvc/?username=obelisk2u)
 <!--
 **obelisk2u/obelisk2u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
