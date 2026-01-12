@@ -7,3 +7,5 @@ Reach me at jordan@streamers-edge.com
 - Transformer-based topic modeling over long-form text
 - ViT based implementation for physics learning surrogates
 - Live chat analytics and sentiment dynamics
+
+https://komarev.com/ghpvc/?username=obelisk2u&style=flat-square
