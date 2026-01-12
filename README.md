@@ -8,4 +8,4 @@ Reach me at jordan@streamers-edge.com
 - ViT based implementation for physics learning surrogates
 - Live chat analytics and sentiment dynamics
 
-https://komarev.com/ghpvc/?username=obelisk2u&style=flat-square
+![Profile Views](https://komarev.com/ghpvc/?username=obelisk2u&style=flat-square)
