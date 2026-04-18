@@ -1,11 +1,14 @@
 ## Hi there, I'm Jordan 👋
 
-I like to experiment with DL projects, looking for new roles \
-Reach me at jordan@streamers-edge.com
+I do fun scientific computing and machine learning projects
+
+Reach me at jdstout@bu.edu
 
 ### Currently working on
-- Transformer-based topic modeling over long-form text
-- ViT based implementation for physics learning surrogates
-- Live chat analytics and sentiment dynamics
+- **pinn-laplace** — from-scratch PINN for the 2D Laplace equation with failure mode analysis (loss weighting, spectral bias, collocation starvation)
+
+### Recent projects
+- **SimuFlow** — from-scratch 2D incompressible Navier-Stokes solver
+- **PoissoNet** — physics-informed U-Net surrogate for the 2D Poisson equation
 
 ![Profile Views](https://komarev.com/ghpvc/?username=obelisk2u&style=flat-square)
